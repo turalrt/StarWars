@@ -1,0 +1,14 @@
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.exe
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.deps.json
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.runtimeconfig.json
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.runtimeconfig.dev.json
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.dll
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.pdb
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.csproj.AssemblyReference.cache
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfo.cs
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.dll
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.pdb
+C:\Users\OBPRemote9\source\repos\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.genruntimeconfig.cache
